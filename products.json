@@ -1,0 +1,52 @@
+[
+{
+    "id": 1,
+    "name": "Relaxation Tea",
+    "type": "beverage",
+    "description": "A soothing herbal tea blend designed for relaxation and stress relief.",
+    "effects": ["relaxation", "stress relief"],
+    "ingredients": ["Chamomile", "Lavender"],
+    "price": 12.99,
+    "sales_data": {"units_sold": 120, "last_month_revenue": 1558.8}
+},
+{
+    "id": 2,
+    "name": "Energy Boost Tea",
+    "type": "beverage",
+    "description": "An invigorating tea blend formulated to enhance focus and provide a natural energy boost.",
+    "effects": ["energy boost", "mental clarity"],
+    "ingredients": ["Ginseng", "Green Tea"],
+    "price": 14.99,
+    "sales_data": {"units_sold": 150, "last_month_revenue": 2248.5}
+},
+{
+    "id": 3,
+    "name": "Detox Herbal Tea",
+    "type": "beverage",
+    "description": "A cleansing herbal infusion designed to support digestion and detoxification.",
+    "effects": ["detox", "digestion support"],
+    "ingredients": ["Dandelion", "Peppermint"],
+    "price": 13.49,
+    "sales_data": {"units_sold": 100, "last_month_revenue": 1349.0}
+},
+{
+    "id": 4,
+    "name": "Sleep Well Tea",
+    "type": "beverage",
+    "description": "A caffeine-free herbal tea formulated to promote restful sleep and relaxation.",
+    "effects": ["better sleep", "calming"],
+    "ingredients": ["Valerian Root", "Passionflower"],
+    "price": 15.99,
+    "sales_data": {"units_sold": 85, "last_month_revenue": 1359.15}
+},
+{
+    "id": 5,
+    "name": "Focus Blend Tea",
+    "type": "beverage",
+    "description": "A specialized tea blend crafted to enhance mental clarity and cognitive function.",
+    "effects": ["focus", "memory support"],
+    "ingredients": ["Ginkgo Biloba", "Rosemary"],
+    "price": 16.49,
+    "sales_data": {"units_sold": 110, "last_month_revenue": 1813.9}
+}
+]

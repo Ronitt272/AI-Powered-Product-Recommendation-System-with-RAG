@@ -1,0 +1,52 @@
+[
+{
+    "name": "Chamomile",
+    "properties": "Mild, floral aroma; known for calming effects and reducing anxiety.",
+    "common_effects": ["relaxation", "improved sleep"]
+},
+{
+    "name": "Lavender",
+    "properties": "Soothing and fragrant; commonly used for stress relief and better sleep.",
+    "common_effects": ["calmness", "stress reduction"]
+},
+{
+    "name": "Ginseng",
+    "properties": "Energizing and invigorating; supports cognitive function and reduces fatigue.",
+    "common_effects": ["energy boost", "mental clarity"]
+},
+{
+    "name": "Green Tea",
+    "properties": "Rich in antioxidants; enhances alertness and metabolism.",
+    "common_effects": ["alertness", "fat metabolism"]
+},
+{
+    "name": "Dandelion",
+    "properties": "Detoxifying herb; supports liver health and digestion.",
+    "common_effects": ["detox", "digestive support"]
+},
+{
+    "name": "Peppermint",
+    "properties": "Cooling and refreshing; aids digestion and relieves bloating.",
+    "common_effects": ["digestion support", "refreshing"]
+},
+{
+    "name": "Valerian Root",
+    "properties": "Natural sedative; helps improve sleep quality and reduce anxiety.",
+    "common_effects": ["better sleep", "anxiety relief"]
+},
+{
+    "name": "Passionflower",
+    "properties": "Calming herb; traditionally used to relieve stress and promote relaxation.",
+    "common_effects": ["calmness", "better sleep"]
+},
+{
+    "name": "Ginkgo Biloba",
+    "properties": "Brain-boosting herb; enhances memory and cognitive function.",
+    "common_effects": ["focus", "memory enhancement"]
+},
+{
+    "name": "Rosemary",
+    "properties": "Aromatic herb; traditionally associated with improved concentration and cognitive function.",
+    "common_effects": ["memory support", "focus"]
+}
+]
