@@ -71,3 +71,9 @@ Once the relevant products are retrieved, the system fetches additional contextu
  - Expanded Knowledge Base: Enhancing RAG with structured product metadata.
  - Use of proper Database: Replacing static JSON with a database.
  - Optimized Search: Implementing FAISS indexing for faster vector search instead of simple brute force search over the knowledge base.
+
+## Results of Test Query
+
+![Alt text](images/my-image.png)
+![Alt text](images/my-image.png)
+
