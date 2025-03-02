@@ -37,7 +37,6 @@ npm install
 npm start
 ```
 
-Frontend will be available at: `http://localhost:3000`
-Just navigate to the above link on your local browser to access the app.
+Frontend will be available at: `http://localhost:3000`. Just navigate to the above link on your local browser to access the app.
 
 ## Approach
