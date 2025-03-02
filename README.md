@@ -8,12 +8,16 @@ This project implements a Retrieval-Augmented Generation (RAG) based recommendat
 
 ## How to Run the Prototype
 1. Clone the Repository
-'''
+```
 git clone https://github.com/Ronitt272/AI-Powered-Product-Recommendation-System-with-RAG.git
 cd AI-Powered-Product-Recommendation-System-with-RAG
-
-2. Setup and Run the Backend (FastAPI)
+```
+3. Setup and Run the Backend (FastAPI)
 - Install the dependencies
-'''
+```
 pip install -r requirements.txt
-''' 
+```
+- Run the FastAPI Server
+```
+python app.py
+```
