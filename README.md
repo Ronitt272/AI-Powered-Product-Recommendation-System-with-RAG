@@ -21,3 +21,23 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+3. Setup and Run the Frontend (React)
+- Navigate to the React Frontend
+```
+cd react-frontend
+```
+
+- Install Dependencies
+```
+npm install
+```
+
+- Start the React App
+```
+npm start
+```
+
+Frontend will be available at: `http://localhost:3000`
+Just navigate to the above link on your local browser to access the app.
+
+## Approach
