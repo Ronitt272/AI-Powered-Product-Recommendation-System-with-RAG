@@ -74,6 +74,6 @@ Once the relevant products are retrieved, the system fetches additional contextu
 
 ## Results of Test Query
 
-![Alt text](images/my-image.png)
-![Alt text](images/my-image.png)
+![Image 1](images/AG_Reco_Sys_Test_Query_img1.png)
+![Image 2](images/AG_Reco_Sys_Test_Query_img2.png)
 
